@@ -1,3 +1,6 @@
+[![license](https://img.shields.io/github/license/openanthem/nimbus-docs.svg)]() [![GitHub last commit](https://img.shields.io/github/last-commit/openanthem/nimbus-docs.svg)]() [![GitHub contributors](https://img.shields.io/github/contributors/openanthem/nimbus-docs.svg)]()
+
+
 # Automation overview
 
 # Workstation setup for local builds
@@ -26,7 +29,7 @@ Requirements for NIMBUS-DOCS
         * You will have to exit terminal, and open a new terminal for path statements and ruby to be available.
     * Type: gem install asciidoctor
 * Installing doctoolchain
-    * Windows and Linux:
+    * Windows and Linux: **INSTALL to $HOME/.doctoolchain
     * Documentation source: https://doctoolchain.github.io/docToolchain/#_get_the_tool
         * Download: https://github.com/docToolchain/docToolchain/archive/master.zip
         * Extract doctoolchain to a folder, called <doctoolchain> here on out
